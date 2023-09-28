@@ -11,6 +11,7 @@
     border-radius: 30px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     height: 500px;
+    transition: all 0.3s;
 }
 .card-body{
     padding: 30px;
@@ -24,3 +25,6 @@
 .btn-primary:hover{
     background-color: red;
 }
+
+
+/* Menu pagina principal */
